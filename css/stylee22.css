@@ -1,0 +1,82 @@
+.send0{
+	border-radius: 25px; 
+	 background-color:#8D848D;
+	 border-color:#8D848D;
+	 padding:23px 206px;
+	 margin-top:60px;
+	 margin-left:-57px;
+	 color:white;
+	 text-align:left;
+	 
+	
+}
+.send :before{
+/*Content : "ssssssssssssssssssss";
+background-color:red;*/
+}
+
+
+
+
+
+
+
+
+
+
+.inputSend{
+ position:relative ;
+     width:95%;
+     height:80px;
+     padding:0px;
+     bottom:0%;
+     margin:90px auto 0px;
+ 	  
+ } 
+.send{
+ position:relative ;
+ width:100%; 
+ height:50px; 
+ 
+ /*background-color:rgb(248, 204, 10);*/
+  background-color:#8D848D;
+ border-radius:30px;
+ padding-left:10px;
+padding-top:10px; 
+margin:0px; 
+}
+.sendControl{
+position:relative ;
+  /*  background-color:rgb(248, 204, 10);*/
+   background-color:#8D848D;
+    width:50%;
+   height:80%; 
+    margin:2px;
+    border:none;
+	color: white;
+	
+}
+.fa{
+
+margin:5px;
+    
+    color:rgb(107, 92, 81);
+    font-size:20px;
+}
+.icon{
+	margin-left:191px;
+	background-image:url('../img/3.png');
+}
+.img8{
+	margin-left:183px;
+	
+}
+
+
+
+
+                 <div class="test">
+					 <span>
+					 qqw ww ee e e
+					 </span>
+					 </div>
